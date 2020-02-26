@@ -1,0 +1,12 @@
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\bin\Debug\AndreasSocratousCOMP213.exe.config
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\bin\Debug\AndreasSocratousCOMP213.exe
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\bin\Debug\AndreasSocratousCOMP213.pdb
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.csprojResolveAssemblyReference.cache
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.Form1.resources
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.Properties.Resources.resources
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.csproj.GenerateResource.Cache
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.exe
+t:\student\documents\visual studio 2013\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.pdb
+E:\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\bin\Debug\AndreasSocratousCOMP213.exe.config
+E:\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.exe
+E:\Projects\AndreasSocratousCOMP213\AndreasSocratousCOMP213\obj\Debug\AndreasSocratousCOMP213.pdb
